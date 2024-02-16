@@ -103,7 +103,7 @@ PORT=3005
 
 ## Star History ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=RlxChap2/Tutorial&type=Date)](https://star-history.com/#RlxChap2/Tutorial&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HrSApI/Tutorial&type=Date)](https://star-history.com/#HrSApI/Tutorial&Date)
 
 ## روابط مواقع التواصل الاجتماعي 🌐
 
